@@ -1,5 +1,4 @@
-# wannacry-pcaps
-Pcaps collected from internet
+# wannacry-pcaps 
 
 https://mega.nz/#!Unp0yLwZ!KBDqSC35Jl6XcdwI1Ay_SJJeeuQOjJd0JKQXmiXkmF
 
